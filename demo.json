@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Ivan Morillas",
+        "age": 25,
+        "job": "Programador",
+        "email": "ivan.morillas@example.com"
+    },
+    {
+        "id": 2,
+        "name": "Juan Perez",
+        "age": 30,
+        "job": "Analista",
+        "email": "juan.perez@example.com"
+    },
+    {
+        "id": 3,
+        "name": "Maria Lopez",
+        "age": 35,
+        "job": "Diseñadora",
+        "email": "maria.lopez@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Laura Martinez",
+        "age": 40,
+        "job": "Jefa de Proyecto",
+        "email": "laura.martinez@example.com"
+    },
+    {
+        "id": 5,
+        "name": "Carlos Sanchez",
+        "age": 45,
+        "job": "Director",
+        "email": "carlos.sanchez@example.com"
+    },
+    {
+        "id": 6,
+        "name": "Ana Jimenez",
+        "age": 50,
+        "job": "CEO",
+        "email": "ana.jimenez@example.com"
+    },
+    {
+        "id": 7,
+        "name": "Pedro Rodriguez",
+        "age": 55,
+        "job": "CTO",
+        "email": "pedro.rodriguez@example.com"
+    },
+    {
+        "id": 8,
+        "name": "Isabel Fernandez",
+        "age": 60,
+        "job": "CFO",
+        "email": "isabel.fernandez@example.com"
+    },
+    {
+        "id": 9,
+        "name": "Carmen Garcia",
+        "age": 65,
+        "job": "CMO",
+        "email": "carmen.garcia@example.com"
+    },
+    {
+        "id": 10,
+        "name": "Victor Moreno",
+        "age": 70,
+        "job": "CIO",
+        "email": "victor.moreno@example.com"
+    }
+]

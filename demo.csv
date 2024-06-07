@@ -1,0 +1,11 @@
+id, name, age, job, email
+1, Ivan Morillas, 25, Programador, ivan.morillas@example.com
+2, Juan Perez, 30, Analista, juan.perez@example.com
+3, Maria Lopez, 35, Diseñadora, maria.lopez@example.com
+4, Laura Martinez, 40, Jefa de Proyecto, laura.martinez@example.com
+5, Carlos Sanchez, 45, Director, carlos.sanchez@example.com
+6, Ana Jimenez, 50, CEO, ana.jimenez@example.com
+7, Pedro Rodriguez, 55, CTO, pedro.rodriguez@example.com
+8, Isabel Fernandez, 60, CFO, isabel.fernandez@example.com
+9, Carmen Garcia, 65, CMO, carmen.garcia@example.com
+10, Victor Moreno, 70, CIO, victor.moreno@example.com
